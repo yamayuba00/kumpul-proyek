@@ -5,7 +5,7 @@ Verifikasi proyek web yang akan dibuat sesuai dengan harapan tim masing-masing.
 Bila sudah menemukan referensi web yang akan dibangun, segera verifikasi.
 
 Cara proyek:
-1. Ketua menyiapkan akun repository baru. (Jika ketua tidak hadir, buat akun sehabis ketua dari urutan kelompok)
+1. Ketua menyiapkan akun repository baru. (Jika ketua tidak hadir / sakit, buat akun sehabis ketua dari urutan kelompok)
 2. Buat nama repository yang benar, semisal (SchoolApp) -> artinya tentukan nama website dan proyeknya.
 3. Branch Utama (Main/Master) tidak digunakan default / mengganti dengan branch Production.
 4. Terdapat 6 branch (Production, Development , Nama tim 1, Nama tim 2, Nama tim 3, Nama tim 4)
