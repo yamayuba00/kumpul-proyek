@@ -1,0 +1,19 @@
+#### Tentukan Proyek
+
+Lama Waktu 10 Hari (2 Minggu)
+Verifikasi proyek web yang akan dibuat sesuai dengan harapan tim masing-masing.
+Bila sudah menemukan referensi web yang akan dibangun, segera verifikasi.
+
+Cara proyek:
+1. Ketua menyiapkan akun repository baru. (Jika ketua tidak hadir, buat akun sehabis ketua dari urutan kelompok)
+2. Buat nama repository yang benar, semisal (SchoolApp) -> artinya tentukan nama website dan proyeknya.
+3. Branch Utama (Main/Master) tidak digunakan default / mengganti dengan branch Production.
+4. Terdapat 6 branch (Production, Development , Nama tim 1, Nama tim 2, Nama tim 3, Nama tim 4)
+5. Branch yang dipakai adalah Development yang digabungkan dari branch nama tim masing-masing.
+6. Branch Production adalah gabungan dari Development (jika dirasa Development sudah selesai)
+7. Undang teman satu tim sebagai kolaborasi untuk memudahkan access penuh saat development.
+8. Siapkan desain yang benar, dengan kasarannya.
+9. Buatkan website yang detail (artinya memang semua kerangka bekerja dengan maksimal)
+10. Website yang dirancang, sudah harus responsif dengan versi handphone.
+11. Setiap kelompok masing-masing menyertakan commit yang benar, semisal git commit -m "add Navbar" , " Change Navbar ", " Fixed Navbar "
+12. Pastikan teman sekolompoknya bekerja sesuai kesepakatan masing-masing kelompok.
